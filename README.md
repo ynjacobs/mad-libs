@@ -14,3 +14,8 @@
   * Switch back to master and pull to get the latest code
   * Merge your feature branch into master
   * If there are conflicts, resolve them first
+
+---
+
+![Sailor Moon](sailor-moon.png)
+
